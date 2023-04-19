@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #343A40;
+    height: 10rem;
+    align-items: center;
+}
+
+button{
+    background-color: #EB6F4C;
+    color: white;
+}
+
+.btn-cel{
+    width: 17rem;
+    height: 4rem;
+    background-color: #EB6F4C;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-inline: 8rem;
+}
